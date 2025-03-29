@@ -5,6 +5,9 @@ Udemy Clone - Online Learning Platform
 
 This project is a simple Udemy-style online learning platform built using HTML and CSS. It showcases a responsive and visually appealing design, featuring course listings, instructor profiles, and a structured layout for an engaging user experience.
 
+Here is my Demo
+
+https://muthulakshmi-git.github.io/udemy/
 
 
 🚀 Features
