@@ -83,7 +83,7 @@ body {
 
 .course-card {
 
-    width: 300px;
+    width: 250px;
 
 }
 
@@ -110,6 +110,9 @@ body {
     flex-grow: 1;
     flex-basis: 25%;
 
+}
+.popular{
+    padding: 10px;
 }
 
 .popular__container {
